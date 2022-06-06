@@ -9,9 +9,7 @@ declare global {
   namespace ReactNavigation {
     interface RootParamList {
       home: undefined
-      ticket: {
-        id: string
-      }
+      workshop: undefined
     }
   }
 }
