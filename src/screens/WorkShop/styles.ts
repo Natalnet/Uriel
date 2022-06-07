@@ -18,7 +18,6 @@ export const Content = styled.ScrollView.attrs({
     paddingVertical: 28
   },
   showsVerticalScrollIndicator: false
-
 })`
   
 `

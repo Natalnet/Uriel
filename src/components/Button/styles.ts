@@ -12,6 +12,7 @@ export const Container = styled(RectButton) <ButtonProps>`
   justify-content: center;
   align-items: center;
   border-radius: 12px;
+  min-height: 64px;
 
 
   background-color: ${({ color, theme }) => color ? color : theme.colors.primary};

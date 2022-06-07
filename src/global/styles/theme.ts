@@ -1,12 +1,10 @@
 export const colorsTheme = {
   colors: {
     primary: '#2563eb',
+    secondary: '#AA1717',
 
     button: '#272738',
     button_secondary: '#3B3A4D',
-
-    secondary: '#FF8900',
-    secondary_light: 'rgba(255, 135, 44, 0.3)',
 
     success: '#12a454',
     success_light: 'rgba(18, 164, 84, 0.5)',
@@ -16,6 +14,7 @@ export const colorsTheme = {
 
     shape: '#FFFFFF',
     text_primary: '#f3f5f6',
+    text_light: '#a8a8ad',
 
     title: '#363f5f',
     text: '#969cb2',
